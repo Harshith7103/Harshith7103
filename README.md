@@ -40,5 +40,8 @@
 
 ---
 
+![snake](https://raw.githubusercontent.com/Harshith7103/Harshith7103/output/snake-purple.svg)
 
+
+---
 <p align="center"><i>Thanks for stopping by! ⭐️ Feel free to explore my repos and connect.</i></p>
