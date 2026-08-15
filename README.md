@@ -2,7 +2,7 @@
 <h3 align="center">M.Tech Data Science Student | Deep Learning & Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2E9EF7&center=true&vCenter=true&width=600&lines=%E2%80%8BPython+%7C+SQL+%7C+Deep+Learning;%E2%80%8B+Building+scalable+data+pipelines+%26+predictive+models;%E2%80%8BFull+Stack+Developer+%7C+React+%2F+Node.js+%2F+MongoDB;%E2%80%8BPassionate+about+AI%2C+Analytics+%26+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2E9EF7&center=true&vCenter=true&width=600&lines=%E2%80%8BPython+%7C+SQL+%7C+Deep+Learning;%E2%80%8B++Building+scalable+data+pipelines+%26+predictive+models;%E2%80%8BFull+Stack+Developer+%7C+React+%2F+Node.js+%2F+MongoDB;%E2%80%8BPassionate+about+AI%2C+Analytics+%26+Cloud" alt="Typing SVG" />
 </p>
 
 ---
