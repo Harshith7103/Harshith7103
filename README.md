@@ -12,7 +12,7 @@
 - 🎓 Pursuing **M.Tech in Data Science** at Amrita Vishwa Vidyapeetham, Coimbatore (2027)
 - 💼 Full Stack Web Developer Intern @ **SocialTek AI ML Business Solutions Pvt Ltd**
 - 🔭 Currently working on ML/DL projects — sentiment analysis, time-series forecasting, and AI dashboards
-- 🌱 Strengthening my skills in **Deep Learning, NLP, Cloud (AWS) and all about DataScience**
+- 🌱 Strengthening my skills in **Python, DSA, Deep Learning, NLP, Cloud (AWS) and all about DataScience**
 - 💞️ Open to collaborating on **open-source, ML/Data Science projects, and full-stack apps**
 - 📫 Reach me at: **harshith7103@gmail.com**
 
