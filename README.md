@@ -16,7 +16,6 @@
 - 🌱 Strengthening my skills in **Machine Learning, NLP, and Cloud (AWS)**
 - 💞️ Open to collaborating on **open-source, ML/Data Science projects, and full-stack apps**
 - 📫 Reach me at: **harshith7103@gmail.com**
-- ⚡ Fun fact: I fine-tuned BERT to hit a 0.96 F1-score on 31K+ crypto news samples!
 
 ---
 
@@ -58,56 +57,5 @@
 
 ---
 
-### 📌 Featured Projects
-
-- 🪙 **[Crypto News Sentiment Analysis](https://github.com/Harshith7103)** — Fine-tuned BERT on 31K+ crypto news samples, achieving a 0.96 F1-score across sentiment classes.
-- 📈 **[Bitcoin Price Prediction (Multimodal)](https://github.com/Harshith7103)** — TCN & TCN-BiGRU models combining sentiment, technical indicators, and time-lagged correlations for next-hour price forecasting.
-- 📊 **[Real-Time AI Operations Dashboard](https://github.com/Harshith7103)** — Full-stack dashboard (React + Node.js + MongoDB) for monitoring AI workflows and system activity in real time.
-
-> Update the links above once you add these repos to your GitHub.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshith7103&show_icons=true&theme=radical&count_private=true" alt="Harshith's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshith7103&theme=radical" alt="Harshith's GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshith7103&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>
-
----
-
-### 🎓 Certifications
-
-- ✅ Python — Coursera
-- ✅ Machine Learning — Codedamn
-- ✅ Full Stack Web Development — Social Prachar
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/Harshith7103" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/harshith-grandhi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:harshith7103@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/Harshith7103" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
-
-> ⚠️ Note: Double-check the LinkedIn and LeetCode links above and replace the usernames with your exact profile handles if they differ.
-
----
 
 <p align="center"><i>Thanks for stopping by! ⭐️ Feel free to explore my repos and connect.</i></p>
