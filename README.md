@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Harshith Grandhi 👋</h1>
-<h3 align="center"> Data Science | Full Stack Developer</h3>
+<h3 align="center">A Passionate Data Science | Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2E9EF7&center=true&vCenter=true&width=700&lines=Python+%7C+SQL+%7C+Deep+Learning;Building+scalable+data+pipelines+%26+predictive+models;Full+Stack+Developer+%7C+React.js+%2F+Node.js+%2F+MongoDB;Passionate+about+AI%2C+Analytics+%26+Cloud" alt="Typing SVG" />
